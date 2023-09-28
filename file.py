@@ -1,3 +1,3 @@
-print "Hello World"
+print ("Hallo Mergim")
 im gay
-print ("umbenannt")
+print ("Bonne Nuit")
