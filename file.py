@@ -1,5 +1,4 @@
 print ("Hallo Mergim")
-im gay
 
 print ("umbenannt")
 print("Sowieso")
@@ -36,3 +35,4 @@ print("Feierabend")
 print ("Tschüss")
 
 
+print ("Bonne Nuit")
