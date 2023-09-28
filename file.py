@@ -1,6 +1,7 @@
 print "Hello World"
 im gay
 print ("umbenannt")
+print ("Schmerz")
 
 
 import redis
