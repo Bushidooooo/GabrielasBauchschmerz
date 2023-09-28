@@ -2,6 +2,7 @@ print "Hello World"
 im gay
 print ("umbenannt")
 
+
 import redis
 
 host = 'localhost'
@@ -24,4 +25,11 @@ print(res7)  # 1
 res8 = r.incrby("Sensor4", 2)
 print(res8)  # 11
  
-print("hallo")
+
+ligma balls
+
+print("sanderns96")
+print("Blendor Test")
+
+print("Feierabend")
+
