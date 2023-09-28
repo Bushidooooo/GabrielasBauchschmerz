@@ -1,5 +1,4 @@
 print ("Hallo Mergim")
-im gay
 
 print ("umbenannt")
 print("Sowieso")
