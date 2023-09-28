@@ -3,7 +3,6 @@ im gay
 print ("umbenannt")
 print ("Schmerz")
 
-
 import redis
 
 host = 'localhost'
@@ -21,6 +20,9 @@ print(all_keys)
 
 
 
+
+print("Ich habe 6 Tage frei")
+
 res7 = r.incr("Sensor3")
 print(res7)  # 1
 res8 = r.incrby("Sensor4", 2)
@@ -33,4 +35,5 @@ print("sanderns96")
 print("Blendor Test")
 
 print("Feierabend")
+
 
