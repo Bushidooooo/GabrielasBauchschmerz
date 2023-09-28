@@ -33,4 +33,6 @@ print("Blendor Test")
 
 print("Feierabend")
 
+print ("Tschüss")
+
 
